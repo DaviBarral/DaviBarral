@@ -11,10 +11,7 @@ Este repositório tem como objetivo ser uma **apresentação pessoal** e também
 ---
 
 ## 🛠️ Tecnologias & Níveis de Conhecimento
-- **Python** – 40 %  
-- **C / C++** – 60 %  
-- **HTML, JavaScript & Node.js** – 80 %  
-- **SQL** – 30 %  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBarral&langs_count=4&layout=donut&custom_title=Tecnologias%20ByDavi_)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📈 GitHub Stats
