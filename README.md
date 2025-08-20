@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Olá, eu sou ByDavi_ 👋</h1>
 <p align="center">24 anos • Programador em constante evolução • Aprendizado ativo</p>
 
