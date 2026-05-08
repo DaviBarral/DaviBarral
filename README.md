@@ -52,10 +52,10 @@ Sistema de iluminação inteligente com ESP32, sensor LDR, PWM e servidor HTTP. 
 ## 📊 Language Breakdown
 
 ```
-SQL        
-Python     
-Java       
-C / C++   
+SQL        ████████████████░░░░░░░░░░░░░░░░  40%
+Python     ███████████░░░░░░░░░░░░░░░░░░░░░  28%
+Java       ███████░░░░░░░░░░░░░░░░░░░░░░░░░  18%
+C / C++    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░  14%
 ```
 
 ---
