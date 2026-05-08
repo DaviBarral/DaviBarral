@@ -1,32 +1,67 @@
+<!-- ══════════════════════════════════════════════════════ -->
+<!--              BLOODBORNE GITHUB PROFILE README         -->
+<!-- ══════════════════════════════════════════════════════ -->
 
-<h1 align="center">Olá, eu sou ByDavi_ 👋</h1>
-<p align="center">24 anos • Programador em constante evolução • Aprendizado ativo</p>
+<div align="center">
 
----
+```
+☽ ✦ ☾
+```
 
-## 👨‍💻 Sobre Mim
-Meu nome é **Davi Barral**, tenho **24 anos** e atualmente estou em processo constante de aprendizado e desenvolvimento como programador.  
-Este repositório tem como objetivo ser uma **apresentação pessoal** e também servir como portfólio dos projetos que venho construindo, seja para estudos acadêmicos, experimentos ou aprendizado individual.  
+# Davi Barral
 
----
+*Backend developer in the making.*  
+*Java & PostgreSQL by craft. Projetos ainda acadêmicos — mas cada um, uma cicatriz.*
 
-## 🛠️ Tecnologias & Níveis de Conhecimento
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBarral&langs_count=4&layout=donut&custom_title=Tecnologias%20ByDavi_)](https://github.com/anuraghazra/github-readme-stats)
+**`CESUPA · Engenharia de Computação · Belém, Pará — BR`**
 
-
-## 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/DaviBarral">
-    <img src="https://github-readme-stats.vercel.app/api?username=DaviBarral&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/DaviBarral">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBarral&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 Próximos Passos
-- Continuar estudando linguagens e frameworks modernos  
-- Publicar novos projetos práticos no GitHub  
-- Melhorar a organização e documentação dos repositórios  
+## ⚔️ Arsenal
+
+| Primary | Secondary |
+|---|---|
+| Java · PostgreSQL · SQL avançado | C · C++ · Python · Prolog |
+
+**Current focus →** HydroCalc — TCC · Plumbing sizing · NBR 5626
+
+---
+
+## 📜 Pinned
+
+**[steam-db-normalized]()**  
+Schema PostgreSQL normalizado a partir de ~111k registros do dataset Steam. Script de população em Python incluso.  
+`PostgreSQL` · `acadêmico`
+
+---
+
+**[ai-search-algorithms]()**  
+Greedy Best-First, A* e IDA* no mapa da Romênia. Comparação de Decision Trees (Gini vs Entropy) no dataset Iris.  
+`Python` · `acadêmico`
+
+---
+
+**[iot-smart-lighting]()**  
+Sistema de iluminação inteligente com ESP32, sensor LDR, PWM e servidor HTTP. Integração MQTT via HiveMQ.  
+`C++` · `acadêmico`
+
+---
+
+## 📊 Language Breakdown
+
+```
+SQL        
+Python     
+Java       
+C / C++   
+```
+
+---
+
+<div align="center">
+
+*"Fear the Old Blood."*
+
+</div>
